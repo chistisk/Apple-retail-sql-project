@@ -1,0 +1,36 @@
+product_id,product_name,category_id,launch_date,price
+1,iPhone 12,1,2015-10-21,699
+2,iPhone 13,1,2021-12-18,799
+3,iPhone 14,1,2020-11-20,899
+4,iPhone 15,1,2018-12-13,999
+5,iPhone 15 Pro,1,2018-11-23,1199
+6,iPhone SE,1,2022-09-22,429
+7,iPad 9th Gen,2,2015-10-10,329
+8,iPad Air,2,2021-04-10,599
+9,iPad Mini,2,2016-10-24,499
+10,iPad Pro 11-inch,2,2015-11-06,799
+11,iPad Pro 12.9-inch,2,2019-09-27,1099
+12,MacBook Air M1,3,2023-10-11,999
+13,MacBook Air M2,3,2021-08-14,1199
+14,MacBook Pro 14-inch,3,2021-11-06,1999
+15,MacBook Pro 16-inch,3,2021-06-15,2499
+16,iMac 24-inch,3,2022-01-27,1299
+17,Mac Mini,3,2019-08-14,699
+18,Apple Watch SE,4,2016-02-25,249
+19,Apple Watch Series 8,4,2022-07-22,399
+20,Apple Watch Series 9,4,2019-01-19,429
+21,Apple Watch Ultra,4,2019-07-03,799
+22,AirPods 2nd Gen,5,2018-05-03,129
+23,AirPods 3rd Gen,5,2016-08-22,169
+24,AirPods Pro,5,2023-05-04,249
+25,AirPods Max,5,2022-01-12,549
+26,Apple TV HD,6,2020-10-16,149
+27,Apple TV 4K,6,2018-08-15,179
+28,HomePod Mini,7,2022-05-27,99
+29,HomePod 2nd Gen,7,2019-11-28,299
+30,MagSafe Charger,8,2018-12-28,39
+31,USB-C Power Adapter,8,2019-01-20,19
+32,AppleCare+,8,2017-01-16,129
+33,Leather Case,8,2015-10-30,59
+34,Smart Keyboard,8,2019-12-28,179
+35,Apple Pencil,8,2022-12-27,129

@@ -1,0 +1,31 @@
+store_id,store_name,city,country
+1,Cupertino Flagship,Cupertino,USA
+2,Fifth Avenue,New York,USA
+3,Union Square,San Francisco,USA
+4,Michigan Avenue,Chicago,USA
+5,Regent Street,London,UK
+6,Covent Garden,London,UK
+7,Opera,Paris,France
+8,Champs-Elysees,Paris,France
+9,Ginza,Tokyo,Japan
+10,Shibuya,Tokyo,Japan
+11,Dubai Mall,Dubai,UAE
+12,Mall of Emirates,Dubai,UAE
+13,Orchard Road,Singapore,Singapore
+14,IFC Mall,Hong Kong,China
+15,Sanlitun,Beijing,China
+16,Nanjing Road,Shanghai,China
+17,Infinite Loop,Sydney,Australia
+18,George Street,Sydney,Australia
+19,Bandra,Mumbai,India
+20,Saket,New Delhi,India
+21,Koramangala,Bengaluru,India
+22,Alexanderplatz,Berlin,Germany
+23,Kurfurstendamm,Berlin,Germany
+24,Via del Corso,Rome,Italy
+25,Toronto Eaton Centre,Toronto,Canada
+26,Yorkdale,Toronto,Canada
+27,Coex Mall,Seoul,South Korea
+28,Myeongdong,Seoul,South Korea
+29,Reforma,Mexico City,Mexico
+30,Paulista Avenue,Sao Paulo,Brazil
